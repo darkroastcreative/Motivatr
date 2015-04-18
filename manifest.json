@@ -2,7 +2,7 @@
   "name": "Motivatr",
   "description": "Get motivated and feel good with Motivatr, the app designed to remind you of how awesome you really are.",
   "author": "David Fink",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "manifest_version": 2,
   "app": {
     "background": {
